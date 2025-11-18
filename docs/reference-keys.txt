@@ -1,3 +1,9 @@
 motivation
-a-caucus-race-and-a-long-tale
-hello
+math-toolkits
+inner-product
+cross-product
+jacobian-matrix
+rkhs
+vector-space
+inner-product-1
+reproducing-kernel-hilbert-space
